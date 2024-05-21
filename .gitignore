@@ -12,3 +12,4 @@ bower.json
 component.json
 debug/local/
 Gemfile.lock
+*.tgz
